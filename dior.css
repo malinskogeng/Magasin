@@ -1,0 +1,157 @@
+* {
+  background-color: rgba(255, 255, 255, 0.974);
+}
+
+.sidebar {
+  height: 70px;
+  width: 100%;
+  position:absolute;
+  z-index: 1; /*Stay on top */
+  top: 0; /* Stay at the top */
+  left: 0;
+  background-color: #111; /* Black */
+  /*overflow-x: hidden; /* Disable horizontal scroll */
+  padding-top: 20px;
+}
+
+
+#forside {
+  width: 100%;
+  height: 900px;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://ar.vogue.me/image_provider/?w=750&h=&zc=1&q=90&cc=ffffff&src=https://en.vogue.me/wp-content/uploads/2022/03/DIOR-30MONTAIGNE-FACADE-©-Adrien-Dirand-1.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+
+}
+
+#bildetekst {
+  position: relative;
+}
+
+#dior {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 200px;
+  background-color: transparent;
+}
+
+
+
+#hr1.tynn1 {
+  color: rgb(0, 0, 0);
+  height: 0px;
+  background-color: black;
+  margin-bottom: -15px;
+  margin-top: -15px;
+
+}
+
+#hr1.tynn2 {
+  color: rgb(0, 0, 0);
+  height: 0px;
+  background-color: black;
+  margin-top: -20px;
+  margin-bottom: -20px;
+
+}
+
+#hr2 {
+  color: rgb(0, 0, 0);
+  height: 3px;
+  background-color: black;
+
+
+}
+#hr3{
+  color: rgb(0, 0, 0);
+  height: 30px;
+  background-color: black;
+  margin-top: -20px;
+}
+
+h1 {
+  font-family: 'Times New Roman', Times, serif;
+  text-transform: uppercase;
+  text-size-adjust: 50px;
+  display: inline-block;
+  font-size: 65px;
+  transform: scale(.8, 1);
+  font-weight: 200px;
+  text-align: center;
+}
+
+#newsproducts {
+  font-family: 'Times New Roman', Times, serif;
+  text-transform: uppercase;
+  text-size-adjust: 12px;
+  display: inline-block;
+  font-size: 15px;
+
+
+}
+
+p {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: small;
+  margin-right: 80px;
+  margin-left: 10px;
+  background-color: transparent;
+  text-align: center;
+
+}
+
+#totebag {
+  height: 350px;
+  margin-left: 50px;
+  text-align: center;
+}
+
+#solbriller{
+  text-transform: uppercase;
+  text-align: center;
+
+}
+
+#hr4{
+  margin-top: -18px;
+}
+
+#solbrillebilde{
+  height: 350px;
+  margin-left: 25px;
+  text-align: center;
+}
+
+#hr5{
+  color: rgb(0, 0, 0);
+  height: 5px;
+  background-color: black;
+
+}
+
+#øyenskygge{
+  height: 410px;
+  width: 500px;
+  margin-left: 50px;
+  text-align: center;
+}
+
+#hr4{
+  margin-top: -18px;
+}
+
+#sko{
+  text-transform: uppercase;
+  text-align: center;
+}
+
+#skobilde{
+  height: 350px;
+  margin-left: 25px;
+  text-align: center;
+}
+
